@@ -1,0 +1,45 @@
+Julio	Garcia	 76	88	90	91.75	85	G00000000	Garcia.J000000@stu.sanjac.edu	Calculus_I
+Kim	Nguyen	 95	98.5	98	100	97.5	G00000001	Nguyen.K000001@stu.sanjac.edu	Calculus_2 University_Physics_I
+Jesus	Ramirez	 77.5	82	85	78	86	G00000002	Ramirez.J000002@stu.sanjac.edu	Calculus_2 University_Physics_I
+Christy	Knight	 86	89.25	92	90	94.75	G00000003	Knight.C000003@stu.sanjac.edu	Calculus_2 University_Physics_I
+Sam	Bush	 70	75.5	77	79	81.25	G00000004	Bush.S000004@stu.sanjac.edu	Calculus_2 University_Physics_I
+Laura	Landers	 95.5	97	96	92.75	94	G00000005	Landers.L000005@stu.sanjac.edu	Calculus_2 University_Physics_I
+Sally	Mendoza	 97	99	98.25	95	99	G00000006	Mendoza.S000006@stu.sanjac.edu	Calculus_2 University_Physics_I
+Ethan	Nadler	 91	93.25	90	89	92.5	G00000007	Nadler.E000007@stu.sanjac.edu	Calculus_2 University_Physics_I
+Tony	Templar	 85	82	88.75	84	90	G00000008	Templar.T000008@stu.sanjac.edu	Calculus_2 University_Physics_I
+Paula	Whyte	 97.5	89	65.75	82	98.5	G00000009	Whyte.P000009@stu.sanjac.edu	Calculus_2 University_Physics_I
+Juan	Moreno	 86	88	85.25	90	95	G00000010	Moreno.J000010@stu.sanjac.edu	Calculus_2 University_Physics_I
+John 	Kemper	 52	82	79	88.5	85	G00000011	Kemper.J000011@stu.sanjac.edu	Calculus_2 University_Physics_I
+Jane	Le	 90	93	91	92.75	94	G00000012	Le.J000012@stu.sanjac.edu		Calculus_2 University_Physics_I
+William	Palmer	 95	97	95.75	90	92	G00000013	Palmer.W000013@stu.sanjac.edu	Calculus_2 University_Physics_I
+George	Franco	 89	81.5	75	85.25	88	G00000014	Franco.G000014@stu.sanjac.edu	Calculus_2 University_Physics_I
+Tony	White	 75.5	78	85	88	84	G00000015	White.T000015@stu.sanjac.edu	Calculus_2 University_Physics_I
+Sam	Able	 88	90	86.75	91	93.5	G00000016	Able.S000016@stu.sanjac.edu	Calculus_2 University_Physics_I
+Barbara	Brown	 99	95	98	96.5	97	G00000017	Brown.B000017@stu.sanjac.edu	Calculus_2 University_Physics_I
+Alan	Ernst	 76	79.5	57	82	84.25	G00000018	Ernst.A000018@stu.sanjac.edu	Calculus_I
+Ronda	Farmer	 84.75	87	80	85	86	G00000019	Farmer.R000019@stu.sanjac.edu	Calculus_I
+Bill	Wayne	 75.5	78	85	88	84	G00000020	Wayne.B000020@stu.sanjac.edu	Calculus_I
+Tilly	West	 88	90	86.75	91	93.5	G00000021	West.T000021@stu.sanjac.edu	Calculus_I
+Bobby	Best	 99	97	98	98.5	98.5	G00000022	Best.B000022@stu.sanjac.edu	Calculus_I
+Thomas	Moore	 76	79.5	57	82	84.25	G00000023	Moore.T000023@stu.sanjac.edu	Calculus_I
+Henry	Frank	 84.75	87	80	85	86	G00000024	Frank.H000024@stu.sanjac.edu	Calculus_I
+Andrew	Miller	 87.5	89	65.75	37	98.5	G10000025	Miller.A000025@stu.sanjac.edu	Calculus_I
+John	Doe	 86	88	85.25	90	95	G10000026	Doe.J000026@stu.sanjac.edu	Calculus_I
+John 	Smith	 52	82	79	88.5	85	G10000027	Smith.J000027@stu.sanjac.edu	Calculus_I
+Jane	Deer	 90	93	91	92.75	94	G10000028	Deer.J000028@stu.sanjac.edu	Calculus_I
+William	Clinton	 95	97	95.75	90	92	G10000029	Clinton.W000029@stu.sanjac.edu	Calculus_I
+George	Jones	 89	81.5	75	85.25	88	G10000030	Jones.G000030@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Sarah	White	 75.5	78	85	88	84	G10000031	White.S000031@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Bill	Able	 88	90	86.75	91	93.5	G10000032	Able.B000032@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Larry	Brown	 99	95	98	96.5	97	G10000033	Brown.L000033@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Amanda	Ernst	 76	79.5	77	82	84.25	G10000034	Ernst.A000034@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Richard	Farmer	 84.75	87	80	85	86	G10000035	Farmer.R000035@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Sam	Green	 87	91.75	85	88	90	G10000036	Green.S000036@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Paula	Hamilton 98	100	97.5	95	98.5	G10000037	Hamilton.P000037@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Jesus	Javiar	 77.5	82	85	78	86	G10000038	Javiar.J000038@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Christy	King	 86	89.25	92	90	94.75	G10000039	King.C000039@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Bob	Bush	 70	75.5	77	79	81.25	G10000040	Bush.B000040@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Jerry	Landers	 95.5	97	96	92.75	94	G10000041	Landers.J000041@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Sally	Moore	 97	99	98.25	94	99	G10000042	Moore.S000042@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Nancy	Nadler	 91	93.25	90	89	92.5	G10000043	Nadler.N000043@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I
+Tina	Templar	 85	82	88.75	84	90	G10000044	Templar.T000044@stu.sanjac.edu	University_Physics_2 Programming_Fundamentals_I

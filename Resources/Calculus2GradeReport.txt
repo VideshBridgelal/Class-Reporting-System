@@ -1,0 +1,18 @@
+Student	                 First Test	Second Test	Third Test	Fourth Test	Final Test	Average
+Kim    	Nguyen     	95.00     	98.50     	98.00     	100.00    	97.50     	A
+Jesus  	Ramirez    	77.50     	82.00     	85.00     	78.00     	86.00     	B
+Christy	Knight     	86.00     	89.25     	92.00     	90.00     	94.75     	A
+Sam    	Bush       	70.00     	75.50     	77.00     	79.00     	81.25     	C
+Laura  	Landers    	95.50     	97.00     	96.00     	92.75     	94.00     	A
+Sally  	Mendoza    	97.00     	99.00     	98.25     	95.00     	99.00     	A
+Ethan  	Nadler     	91.00     	93.25     	90.00     	89.00     	92.50     	A
+Tony   	Templar    	85.00     	82.00     	88.75     	84.00     	90.00     	B
+Paula  	Whyte      	97.50     	89.00     	65.75     	82.00     	98.50     	B
+Juan   	Moreno     	86.00     	88.00     	85.25     	90.00     	95.00     	B
+John   	Kemper     	52.00     	82.00     	79.00     	88.50     	85.00     	C
+Jane   	Le         	90.00     	93.00     	91.00     	92.75     	94.00     	A
+William	Palmer     	95.00     	97.00     	95.75     	90.00     	92.00     	A
+George 	Franco     	89.00     	81.50     	75.00     	85.25     	88.00     	B
+Tony   	White      	75.50     	78.00     	85.00     	88.00     	84.00     	B
+Sam    	Able       	88.00     	90.00     	86.75     	91.00     	93.50     	A
+Barbara	Brown      	99.00     	95.00     	98.00     	96.50     	97.00     	A

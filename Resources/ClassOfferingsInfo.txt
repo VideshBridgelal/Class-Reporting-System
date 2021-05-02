@@ -1,0 +1,5 @@
+13251 MATH 2413-301 Calculus_I S_Kevin_Pinegar TBA TBA 20
+11949 MATH 2414-102 Calculus_2 Sharon_K_Sledge MW 10:10am-12:05pm 18
+13154 PHYS 2125-331 University_Physics_I Radia_Redjimi TR 2:55pm-4:20pm 16
+10235 PHYS 2126-101 University_Physics_2 Moses_C_Marchante TR 2:05pm-3:30pm 15
+11794 COSC 1436-372 Programming_Fundamentals_I Carlos_A_Townsend MW Online 20

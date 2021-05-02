@@ -1,0 +1,20 @@
+Roster:
+
+Name:			  StudentID:		Email:
+Kim    	Nguyen    	  G00000001		Nguyen.K000001@stu.sanjac.edu
+Jesus  	Ramirez   	  G00000002		Ramirez.J000002@stu.sanjac.edu
+Christy	Knight    	  G00000003		Knight.C000003@stu.sanjac.edu
+Sam    	Bush      	  G00000004		Bush.S000004@stu.sanjac.edu
+Laura  	Landers   	  G00000005		Landers.L000005@stu.sanjac.edu
+Sally  	Mendoza   	  G00000006		Mendoza.S000006@stu.sanjac.edu
+Ethan  	Nadler    	  G00000007		Nadler.E000007@stu.sanjac.edu
+Tony   	Templar   	  G00000008		Templar.T000008@stu.sanjac.edu
+Paula  	Whyte     	  G00000009		Whyte.P000009@stu.sanjac.edu
+Juan   	Moreno    	  G00000010		Moreno.J000010@stu.sanjac.edu
+John   	Kemper    	  G00000011		Kemper.J000011@stu.sanjac.edu
+Jane   	Le        	  G00000012		Le.J000012@stu.sanjac.edu
+William	Palmer    	  G00000013		Palmer.W000013@stu.sanjac.edu
+George 	Franco    	  G00000014		Franco.G000014@stu.sanjac.edu
+Tony   	White     	  G00000015		White.T000015@stu.sanjac.edu
+Sam    	Able      	  G00000016		Able.S000016@stu.sanjac.edu
+Barbara	Brown     	  G00000017		Brown.B000017@stu.sanjac.edu

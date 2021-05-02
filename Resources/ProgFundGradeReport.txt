@@ -1,0 +1,16 @@
+Student	                 First Test	Second Test	Third Test	Fourth Test	Final Test	Average
+George 	Jones      	89.00     	81.50     	75.00     	85.25     	88.00     	B
+Sarah  	White      	75.50     	78.00     	85.00     	88.00     	84.00     	B
+Bill   	Able       	88.00     	90.00     	86.75     	91.00     	93.50     	A
+Larry  	Brown      	99.00     	95.00     	98.00     	96.50     	97.00     	A
+Amanda 	Ernst      	76.00     	79.50     	77.00     	82.00     	84.25     	B
+Richard	Farmer     	84.75     	87.00     	80.00     	85.00     	86.00     	B
+Sam    	Green      	87.00     	91.75     	85.00     	88.00     	90.00     	B
+Paula  	Hamilton   	98.00     	100.00    	97.50     	95.00     	98.50     	A
+Jesus  	Javiar     	77.50     	82.00     	85.00     	78.00     	86.00     	B
+Christy	King       	86.00     	89.25     	92.00     	90.00     	94.75     	A
+Bob    	Bush       	70.00     	75.50     	77.00     	79.00     	81.25     	C
+Jerry  	Landers    	95.50     	97.00     	96.00     	92.75     	94.00     	A
+Sally  	Moore      	97.00     	99.00     	98.25     	94.00     	99.00     	A
+Nancy  	Nadler     	91.00     	93.25     	90.00     	89.00     	92.50     	A
+Tina   	Templar    	85.00     	82.00     	88.75     	84.00     	90.00     	B

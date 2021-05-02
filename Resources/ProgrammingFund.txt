@@ -1,0 +1,18 @@
+Roster:
+
+Name:			  StudentID:		Email:
+George 	Jones     	  G10000030		Jones.G000030@stu.sanjac.edu
+Sarah  	White     	  G10000031		White.S000031@stu.sanjac.edu
+Bill   	Able      	  G10000032		Able.B000032@stu.sanjac.edu
+Larry  	Brown     	  G10000033		Brown.L000033@stu.sanjac.edu
+Amanda 	Ernst     	  G10000034		Ernst.A000034@stu.sanjac.edu
+Richard	Farmer    	  G10000035		Farmer.R000035@stu.sanjac.edu
+Sam    	Green     	  G10000036		Green.S000036@stu.sanjac.edu
+Paula  	Hamilton  	  G10000037		Hamilton.P000037@stu.sanjac.edu
+Jesus  	Javiar    	  G10000038		Javiar.J000038@stu.sanjac.edu
+Christy	King      	  G10000039		King.C000039@stu.sanjac.edu
+Bob    	Bush      	  G10000040		Bush.B000040@stu.sanjac.edu
+Jerry  	Landers   	  G10000041		Landers.J000041@stu.sanjac.edu
+Sally  	Moore     	  G10000042		Moore.S000042@stu.sanjac.edu
+Nancy  	Nadler    	  G10000043		Nadler.N000043@stu.sanjac.edu
+Tina   	Templar   	  G10000044		Templar.T000044@stu.sanjac.edu

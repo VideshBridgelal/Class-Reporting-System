@@ -1,0 +1,16 @@
+Roster:
+
+Name:			  StudentID:		Email:
+Julio  	Garcia    	  G00000000		Garcia.J000000@stu.sanjac.edu
+Alan   	Ernst     	  G00000018		Ernst.A000018@stu.sanjac.edu
+Ronda  	Farmer    	  G00000019		Farmer.R000019@stu.sanjac.edu
+Bill   	Wayne     	  G00000020		Wayne.B000020@stu.sanjac.edu
+Tilly  	West      	  G00000021		West.T000021@stu.sanjac.edu
+Bobby  	Best      	  G00000022		Best.B000022@stu.sanjac.edu
+Thomas 	Moore     	  G00000023		Moore.T000023@stu.sanjac.edu
+Henry  	Frank     	  G00000024		Frank.H000024@stu.sanjac.edu
+Andrew 	Miller    	  G10000025		Miller.A000025@stu.sanjac.edu
+John   	Doe       	  G10000026		Doe.J000026@stu.sanjac.edu
+John   	Smith     	  G10000027		Smith.J000027@stu.sanjac.edu
+Jane   	Deer      	  G10000028		Deer.J000028@stu.sanjac.edu
+William	Clinton   	  G10000029		Clinton.W000029@stu.sanjac.edu
